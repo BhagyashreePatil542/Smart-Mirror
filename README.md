@@ -6,9 +6,9 @@ Features:
 ->Fully simulated in TinkerCad(No physical hardware is required)
 ->Modular and expanded design
 
-Simulation is through TinkerCad Circuits
-MicroController used is Arduino Uno
-Components used are DHT11, LCD, LEDs
+Simulation is through TinkerCad Circuits, 
+MicroController used is Arduino Uno, 
+Components used are DHT11, LCD, LEDs.
 
 ///Prerequisites
 ->Basic Knowledge of Arduino
